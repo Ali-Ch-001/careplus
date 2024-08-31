@@ -3,6 +3,8 @@
 ## Description
 This healthcare patient management application allows patients to easily register, book, and manage their appointments with doctors. It features administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications. Built using Next.js, this platform ensures a seamless experience for both patients and administrators.
 
+Try it out here : https://careplus-gilt.vercel.app/
+
 ## Tech Stack
 - Next.js
 - Appwrite
